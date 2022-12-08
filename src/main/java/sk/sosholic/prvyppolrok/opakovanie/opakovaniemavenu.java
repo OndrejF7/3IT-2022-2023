@@ -12,4 +12,6 @@ public class opakovaniemavenu {
         byte b=1;
         char c=3;
     }
+
+    /// test
 }
