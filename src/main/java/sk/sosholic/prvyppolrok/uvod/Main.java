@@ -1,4 +1,4 @@
-package sk.sosholic.prvyppolrok;
+package sk.sosholic.prvyppolrok.uvod;
 
 public class Main {
     public static void main(String[] args) {

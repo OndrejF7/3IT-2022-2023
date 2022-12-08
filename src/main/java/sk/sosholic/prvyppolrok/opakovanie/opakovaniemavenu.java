@@ -1,4 +1,4 @@
-package sk.sosholic.prvyppolrok;
+package sk.sosholic.prvyppolrok.opakovanie;
 
 public class opakovaniemavenu {
     public static void main(String[] args) {

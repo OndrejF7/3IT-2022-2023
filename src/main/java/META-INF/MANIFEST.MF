@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: sk.sosholic.prvyppolrok.Main
+Main-Class: sk.sosholic.prvyppolrok.uvod.Main
 

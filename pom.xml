@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>sk.sosholic.prvyppolrok.Main</mainClass>
+                            <mainClass>sk.sosholic.prvyppolrok.uvod.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
