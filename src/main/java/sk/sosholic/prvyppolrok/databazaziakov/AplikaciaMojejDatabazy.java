@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class AplikaciaMojejDatabazy {
-    static List<Ziak> ziakList = new ArrayList<>();
+    /*static List<Ziak> ziakList = new ArrayList<>();
         private static boolean exit = true;
 
     public static void main(String[] args) {
@@ -20,9 +20,9 @@ public class AplikaciaMojejDatabazy {
             int menu = scanner.nextInt();
             switch (menu){
                 case 0:
-                    exit = true
+                    exit = true;
                             System.out.println("Aplikacia sa vypina" );
             }
         }
-    }
+    }*/
 }

@@ -1,0 +1,3 @@
+Tesla, 0L, Elektrika
+Renault, 2.5L, Benzin
+Ford, 2L, Diesel
