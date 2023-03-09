@@ -1,4 +1,4 @@
-package sk.sosholic.druhypolrok;
+package sk.sosholic.druhypolrok.citaniezapisu;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;

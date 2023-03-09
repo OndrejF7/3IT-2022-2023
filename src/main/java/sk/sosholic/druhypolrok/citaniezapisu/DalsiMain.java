@@ -1,4 +1,4 @@
-package sk.sosholic.druhypolrok;
+package sk.sosholic.druhypolrok.citaniezapisu;
 
 import java.io.BufferedWriter;
 import java.io.File;
